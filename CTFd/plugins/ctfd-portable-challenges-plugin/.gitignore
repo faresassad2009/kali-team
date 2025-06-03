@@ -1,0 +1,5 @@
+*.pyc
+venv
+.ctfd_secret_key
+.idea
+

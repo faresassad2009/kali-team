@@ -1,0 +1,6 @@
+*.pkl
+*.pyc
+*.state
+*.swp
+.idea
+__pycache__
